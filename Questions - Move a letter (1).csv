@@ -1,0 +1,673 @@
+ID,Word1,Word2,OptionA,OptionB,OptionC,OptionD,OptionE,CorrectLetter,Explanation
+,BEARD,RAM,B,E,A,R,D,D,BEARD becomes BEAR; RAM becomes DRAM (D moves).
+,BEARD,RIVE,B,E,A,R,D,D,BEARD becomes BEAR; RIVE becomes DRIVE (D moves).
+,BEAST,ARL,B,E,A,S,T,E,BEAST becomes BAST; ARL becomes EARL (E moves).
+,BEAST,RISE,B,E,A,S,T,A,BEAST becomes BEST; RISE becomes ARISE (A moves).
+,BLACK,AME,B,L,A,C,K,L,BLACK becomes BACK; AME becomes LAME (L moves).
+,BLACK,OUD,B,L,A,C,K,L,BLACK becomes BACK; OUD becomes LOUD (L moves).
+ML_022,BLAME,RAKE,B,L,A,M,E,B,Move B from BLAME to RAKE to make LAME and BRAKE
+,BLAND,END,B,L,A,N,D,L,BLAND becomes BAND; END becomes LEND (L moves).
+ML_384,BLAND,RAIN,B,L,A,N,D,B,Move B from BLAND to RAIN to make LAND and BRAIN
+ML_381,BLAND,RIGHT,B,L,A,N,D,B,Move B from BLAND to RIGHT to make LAND and BRIGHT
+ML_382,BLAND,RUSH,B,L,A,N,D,B,Move B from BLAND to RUSH to make LAND and BRUSH
+,BLEAK,AME,B,L,E,A,K,L,BLEAK becomes BEAK; AME becomes LAME (L moves).
+,BLEAT,OUD,B,L,E,A,T,L,BLEAT becomes BEAT; OUD becomes LOUD (L moves).
+,BLEND,ONE,B,L,E,N,D,L,BLEND becomes BEND; ONE becomes LONE (L moves).
+,BLIND,OAN,B,L,I,N,D,L,BLIND becomes BIND; OAN becomes LOAN (L moves).
+ML_143,BLINK,LACK,B,L,I,N,K,B,Move B from BLINK to LACK to make LINK and BLACK
+ML_390,BLINK,RAIN,B,L,I,N,K,B,Move B from BLINK to RAIN to make LINK and BRAIN
+ML_389,BLINK,RIGHT,B,L,I,N,K,B,Move B from BLINK to RIGHT to make LINK and BRIGHT
+ML_051,BLINK,RUSH,B,L,I,N,K,B,Move B from BLINK to RUSH to make LINK and BRUSH
+,BLOCK,EAR,B,L,O,C,K,L,BLOCK becomes BOCK; EAR becomes LEAR (L moves).
+,BOARD,AT,B,O,A,R,D,O,0
+,BOARD,MAN,B,O,A,R,D,O,BOARD becomes BARD; MAN becomes MOAN (O moves).
+ML_001,BOARD,SO,B,O,A,R,D,D,Move D from BOARD to SO to make BOAR and SOD
+,BOAST,AR,B,O,A,S,T,O,0
+,BOAST,MEN,B,O,A,S,T,O,BOAST becomes BAST; MEN becomes OMEN (O moves).
+,BOAST,OAR,B,O,A,S,T,S,BOAST becomes BOAT; OAR becomes SOAR (S moves).
+,BOUND,SE,B,O,U,N,D,U,1
+ML_368,BRACE,LACK,B,R,A,C,E,B,Move B from BRACE to LACK to make RACE and BLACK
+ML_369,BRACE,RAIN,B,R,A,C,E,B,Move B from BRACE to RAIN to make RACE and BRAIN
+ML_366,BRACE,RIGHT,B,R,A,C,E,B,Move B from BRACE to RIGHT to make RACE and BRIGHT
+ML_367,BRACE,RUSH,B,R,A,C,E,B,Move B from BRACE to RUSH to make RACE and BRUSH
+,BRAIN,ON,B,R,A,I,N,I,BRAIN becomes BRAN; ON becomes ION (I moves).
+,BRAKE,AND,B,R,A,K,E,R,BRAKE becomes BAKE; AND becomes RAND (R moves).
+,BRAND,ICE,B,R,A,N,D,R,0
+,BRAND,OOM,B,R,A,N,D,R,BRAND becomes BAND; OOM becomes ROOM (R moves).
+,BRASS,AKE,B,R,A,S,S,R,BRASS becomes BASS; AKE becomes RAKE (R moves).
+ML_789,BREAD,ATCH,B,R,E,A,D,B,Move B from BREAD to ATCH to make READ and BATCH
+ML_005,BREAD,MAT,B,R,E,A,D,R,Move R from BREAD to MAT to make BEAD and MART
+,BREAD,OAR,B,R,E,A,D,R,BREAD becomes BEAD; OAR becomes ROAR (R moves).
+ML_139,BREAD,RAKE,B,R,E,A,D,B,Move B from BREAD to RAKE to make READ and BRAKE
+ML_140,BREAD,RUSH,B,R,E,A,D,B,Move B from BREAD to RUSH to make READ and BRUSH
+,BREAK,ITE,B,R,E,A,K,R,BREAK becomes BEAK; ITE becomes RITE (R moves).
+,BREAM,AT,B,R,E,A,M,R,BREAM becomes BEAM; AT becomes RAT (R moves).
+,BRIDE,ANT,B,R,I,D,E,R,BRIDE becomes BIDE; ANT becomes RANT (R moves).
+ML_358,BRIDE,LACK,B,R,I,D,E,B,Move B from BRIDE to LACK to make RIDE and BLACK
+ML_359,BRIDE,RAIN,B,R,I,D,E,B,Move B from BRIDE to RAIN to make RIDE and BRAIN
+ML_356,BRIDE,RIGHT,B,R,I,D,E,B,Move B from BRIDE to RIGHT to make RIDE and BRIGHT
+,BRINE,ICE,B,R,I,N,E,R,BRINE becomes BINE; ICE becomes RICE (R moves).
+,BRING,AN,B,R,I,N,G,R,BRING becomes BING; AN becomes RAN (R moves).
+,BRING,OLL,B,R,I,N,G,R,BRING becomes BING; OLL becomes ROLL (R moves).
+ML_060,BRISK,LACK,B,R,I,S,K,B,Move B from BRISK to LACK to make RISK and BLACK
+,BROAD,AR,B,R,O,A,D,O,1
+ML_096_CORRECTED,BROAD,AT,B,R,O,A,D,B,Move B from BROAD to AT to make ROAD and BAT
+ML_029,BROAD,BAT,B,R,O,A,D,B,Move B from BROAD to BAT to make ROAD and BOAT
+ML_342,BROAD,LACK,B,R,O,A,D,B,Move B from BROAD to LACK to make ROAD and BLACK
+ML_344,BROAD,RAIN,B,R,O,A,D,B,Move B from BROAD to RAIN to make ROAD and BRAIN
+ML_341,BROAD,RIGHT,B,R,O,A,D,B,Move B from BROAD to RIGHT to make ROAD and BRIGHT
+ML_343,BROAD,RUSH,B,R,O,A,D,B,Move B from BROAD to RUSH to make ROAD and BRUSH
+,BROOK,AMP,B,R,O,O,K,R,BROOK becomes BOOK; AMP becomes RAMP (R moves).
+ML_148,BROOK,RIGHT,B,R,O,O,K,B,Move B from BROOK to RIGHT to make ROOK and BRIGHT
+,BROOM,ASH,B,R,O,O,M,R,BROOM becomes BOOM; ASH becomes RASH (R moves).
+,BROTH,ATE,B,R,O,T,H,R,BROTH becomes BOTH; ATE becomes RATE (R moves).
+,CAMEL,EAR,C,A,M,E,L,L,0
+,CAUSE,PON,C,A,U,S,E,U,CAUSE becomes CASE; PON becomes UPON (U moves).
+ML_092,CAUSE,SING,C,A,U,S,E,U,Move U from CAUSE to SING to make CASE and USING
+,CHAIR,CON,C,H,A,I,R,I,CHAIR becomes CHAR; CON becomes ICON (I moves).
+ML_159,CHAIR,HEATER,C,H,A,I,R,C,Move C from CHAIR to HEATER to make HAIR and CHEATER
+ML_727,CHAIR,LASH,C,H,A,I,R,C,Move C from CHAIR to LASH to make HAIR and CLASH
+ML_728,CHAIR,LASS,C,H,A,I,R,C,Move C from CHAIR to LASS to make HAIR and CLASS
+,CHAIR,ON,C,H,A,I,R,I,#REF!
+ML_711,CHAIR,RANK,C,H,A,I,R,C,Move C from CHAIR to RANK to make HAIR and CRANK
+ML_712,CHAIR,RASH,C,H,A,I,R,C,Move C from CHAIR to RASH to make HAIR and CRASH
+ML_713,CHAIR,RATE,C,H,A,I,R,C,Move C from CHAIR to RATE to make HAIR and CRATE
+ML_714,CHAIR,RAVE,C,H,A,I,R,C,Move C from CHAIR to RAVE to make HAIR and CRAVE
+ML_715,CHAIR,REAM,C,H,A,I,R,C,Move C from CHAIR to REAM to make HAIR and CREAM
+ML_716,CHAIR,REEK,C,H,A,I,R,C,Move C from CHAIR to REEK to make HAIR and CREEK
+ML_717,CHAIR,REST,C,H,A,I,R,C,Move C from CHAIR to REST to make HAIR and CREST
+ML_719,CHAIR,RICK,C,H,A,I,R,C,Move C from CHAIR to RICK to make HAIR and CRICK
+ML_725,CHAIR,RUSH,C,H,A,I,R,C,Move C from CHAIR to RUSH to make HAIR and CRUSH
+ML_726,CHAIR,RUST,C,H,A,I,R,C,Move C from CHAIR to RUST to make HAIR and CRUST
+,CHAISE,CON,C,H,A,I,S,I,CHAISE becomes CHASE; CON becomes ICON (I moves).
+ML_163,CHARM,RASH,C,H,A,R,M,C,Move C from CHARM to RASH to make HARM and CRASH
+,CHART,EAT,C,H,A,R,T,H,1
+ML_762,CHART,LASH,C,H,A,R,T,C,Move C from CHART to LASH to make HART and CLASH
+ML_763,CHART,LASS,C,H,A,R,T,C,Move C from CHART to LASS to make HART and CLASS
+ML_764,CHART,LICK,C,H,A,R,T,C,Move C from CHART to LICK to make HART and CLICK
+ML_765,CHART,LIMB,C,H,A,R,T,C,Move C from CHART to LIMB to make HART and CLIMB
+ML_752,CHART,REST,C,H,A,R,T,C,Move C from CHART to REST to make HART and CREST
+ML_754,CHART,RICK,C,H,A,R,T,C,Move C from CHART to RICK to make HART and CRICK
+ML_757,CHART,ROOK,C,H,A,R,T,C,Move C from CHART to ROOK to make HART and CROOK
+ML_759,CHART,RUDE,C,H,A,R,T,C,Move C from CHART to RUDE to make HART and CRUDE
+ML_760,CHART,RUSH,C,H,A,R,T,C,Move C from CHART to RUSH to make HART and CRUSH
+ML_761,CHART,RUST,C,H,A,R,T,C,Move C from CHART to RUST to make HART and CRUST
+ML_165,CHEAT,RACK,C,H,E,A,T,C,Move C from CHEAT to RACK to make HEAT and CRACK
+ML_164,CHEAT,RASH,C,H,E,A,T,C,Move C from CHEAT to RASH to make HEAT and CRASH
+,CHILD,AMP,C,H,I,L,D,L,CHILD becomes CHID; AMP becomes LAMP (L moves).
+ML_098_CORRECTED,CHORE,OAT,C,H,O,R,E,H,Move H from CHORE to OAT to make CORE and OATH
+,CLAIM,CON,C,L,A,I,M,I,CLAIM becomes CLAM; CON becomes ICON (I moves).
+,CLAIM,MAGE,C,L,A,I,M,I,CLAIM becomes CLAM; MAGE becomes IMAGE (I moves).
+,CLAIM,ON,C,L,A,I,M,I,1
+ML_021,CLAMP,LANK,C,L,A,M,P,C,Move C from CLAMP to LANK to make LAMP and CLANK
+ML_153,CLAMP,LICK,C,L,A,M,P,C,Move C from CLAMP to LICK to make LAMP and CLICK
+,CLAMP,OUD,C,L,A,M,P,L,#REF!
+ML_050,CLAMP,RUST,C,L,A,M,P,C,Move C from CLAMP to RUST to make LAMP and CRUST
+ML_400,CLASH,RASH,C,L,A,S,H,C,Move C from CLASH to RASH to make LASH and CRASH
+ML_044,CLASP,LACK,C,L,A,S,P,S,Move S from CLASP to LACK to make CLAP and SLACK
+ML_086,CLOCK,AMP,C,L,O,C,K,L,Move L from CLOCK to AMP to make COCK and LAMP
+ML_085,CLOCK,OAT,C,L,O,C,K,C,Move C (1st) from CLOCK to OAT to make LOCK and COAT
+,CLOCK,OUD,C,L,O,C,K,L,CLOCK becomes COCK; OUD becomes LOUD (L moves).
+ML_080,CLOSE,OAT,C,L,O,S,E,C,Move C from CLOSE to OAT to make LOSE and COAT
+,CLOUD,SE,C,L,O,U,D,U,0
+,COAST,AR,C,O,A,S,T,O,0
+,COAST,AT,C,O,A,S,T,O,COAST becomes CAST; AT becomes OAT (O moves).
+ML_093,COAST,PEN,C,O,A,S,T,O,Move O from COAST to PEN to make CAST and OPEN
+,COAST,TONE,C,O,A,S,T,S,COAST becomes COAT; TONE becomes STONE (S moves).
+,COULD,PON,C,O,U,L,D,U,COULD becomes COLD; PON becomes UPON (U moves).
+,COULD,SE,C,O,U,L,D,U,1
+ML_155,COVER,LOVER,C,O,V,E,R,C,Move C from COVER to LOVER to make OVER and CLOVER
+ML_154,COVER,OVEN,C,O,V,E,R,C,Move C from COVER to OVEN to make OVER and COVEN
+,CRABS,OPE,C,R,A,B,S,R,CRABS becomes CABS; OPE becomes ROPE (R moves).
+,CRAMP,OSE,C,R,A,M,P,R,CRAMP becomes CAMP; OSE becomes ROSE (R moves).
+,CRANE,ICE,C,R,A,N,E,R,0
+,CRASH,OLE,C,R,A,S,H,R,CRASH becomes CASH; OLE becomes ROLE (R moves).
+ML_510,CRATE,ARD,C,R,A,T,E,C,Move C from CRATE to ARD to make RATE and CARD
+ML_013,CRATE,HIP,C,R,A,T,E,C,Move C from CRATE to HIP to make RATE and CHIP
+ML_079,CRAVE,AMP,C,R,A,V,E,R,Move R from CRAVE to AMP to make CAVE and RAMP
+,CRAVE,ANG,C,R,A,V,E,R,CRAVE becomes CAVE; ANG becomes RANG (R moves).
+ML_078,CRAVE,OLD,C,R,A,V,E,C,Move C from CRAVE to OLD to make RAVE and COLD
+ML_396,CREAM,LICK,C,R,E,A,M,C,Move C from CREAM to LICK to make REAM and CLICK
+ML_395,CREAM,RAMP,C,R,E,A,M,C,Move C from CREAM to RAMP to make REAM and CRAMP
+ML_394,CREAM,RASH,C,R,E,A,M,C,Move C from CREAM to RASH to make REAM and CRASH
+,CROCK,AVE,C,R,O,C,K,R,CROCK becomes COCK; AVE becomes RAVE (R moves).
+,CROOK,AIL,C,R,O,O,K,R,CROOK becomes COOK; AIL becomes RAIL (R moves).
+,CROON,IVE,C,R,O,O,N,R,CROON becomes COON; IVE becomes RIVE (R moves).
+ML_515,CROWD,EAR,C,R,O,W,D,D,Move D from CROWD to EAR to make CROW and DEAR
+ML_516,CROWD,ICE,C,R,O,W,D,D,Move D from CROWD to ICE to make CROW and DICE
+ML_517,CROWD,ILL,C,R,O,W,D,D,Move D from CROWD to ILL to make CROW and DILL
+ML_519,CROWD,OLE,C,R,O,W,D,D,Move D from CROWD to OLE to make CROW and DOLE
+ML_520,CROWD,OLL,C,R,O,W,D,D,Move D from CROWD to OLL to make CROW and DOLL
+ML_518,CROWD,ONE,C,R,O,W,D,D,Move D from CROWD to ONE to make CROW and DONE
+ML_511,CROWD,RAIN,C,R,O,W,D,D,Move D from CROWD to RAIN to make CROW and DRAIN
+,CROWD,RAM,C,R,O,W,D,D,CROWD becomes CROW; RAM becomes DRAM (D moves).
+ML_513,CROWD,REAM,C,R,O,W,D,D,Move D from CROWD to REAM to make CROW and DREAM
+ML_512,CROWD,RILL,C,R,O,W,D,D,Move D from CROWD to RILL to make CROW and DRILL
+ML_514,CROWD,RIVE,C,R,O,W,D,D,Move D from CROWD to RIVE to make CROW and DRIVE
+ML_027,DAIRY,OUR,D,A,I,R,Y,D,Move D from DAIRY to OUR to make AIRY and DOUR
+ML_171,DRAIN,RILL,D,R,A,I,N,D,Move D from DRAIN to RILL to make RAIN and DRILL
+ML_056,DREAM,ICE,D,R,E,A,M,D,Move D from DREAM to ICE to make REAM and DICE
+ML_042,DRIVE,ICE,D,R,I,V,E,R,Move R from DRIVE to ICE to make DIVE and RICE
+,DWELL,ALL,D,W,E,L,L,W,0
+,EASEL,EAR,E,A,S,E,L,L,0
+,FEAST,HAPE,F,E,A,S,T,S,FEAST becomes FEAT; HAPE becomes SHAPE (S moves).
+,FEAST,VERY,F,E,A,S,T,E,FEAST becomes FAST; VERY becomes EVERY (E moves).
+ML_062_CORRECTED,FLAKE,EAR,F,L,A,K,E,F,Move F from FLAKE to EAR to make LAKE and FEAR
+ML_061,FLAKE,RIGHT,F,L,A,K,E,F,Move F from FLAKE to RIGHT to make LAKE and FRIGHT
+,FLAME,EAR,F,L,A,M,E,L,0
+,FLEET,OUD,F,L,E,E,T,L,1
+ML_176,FLIGHT,OUND,F,L,I,G,H,F,Move F from FLIGHT to OUND to make LIGHT and FOUND
+ML_173,FLIGHT,RIGHT,F,L,I,G,H,F,Move F from FLIGHT to RIGHT to make LIGHT and FRIGHT
+,FOUND,NIT,F,O,U,N,D,U,FOUND becomes FOND; NIT becomes UNIT (U moves).
+,FOUND,SE,F,O,U,N,D,U,0
+,FRAIL,ICE,F,R,A,I,L,R,FRAIL becomes FAIL; ICE becomes RICE (R moves).
+,FRAME,ICE,F,R,A,M,E,R,0
+,FRIEND,AT,F,R,I,E,N,R,FRIEND becomes FIEND; AT becomes RAT (R moves).
+,GAVEL,EAR,G,A,V,E,L,L,1
+ML_124,GHOST,LOAT,G,H,O,S,T,G,Move G from GHOST to LOAT to make HOST and GLOAT
+ML_122,GHOST,RAVE,G,H,O,S,T,G,Move G from GHOST to RAVE to make HOST and GRAVE
+ML_562,GLASS,RACE,G,L,A,S,S,G,Move G from GLASS to RACE to make LASS and GRACE
+ML_563,GLASS,RADE,G,L,A,S,S,G,Move G from GLASS to RADE to make LASS and GRADE
+ML_564,GLASS,RAIN,G,L,A,S,S,G,Move G from GLASS to RAIN to make LASS and GRAIN
+ML_566,GLASS,RAND,G,L,A,S,S,G,Move G from GLASS to RAND to make LASS and GRAND
+,GLOAT,EASE,G,L,O,A,T,L,GLOAT becomes GOAT; EASE becomes LEASE (L moves).
+ML_418,GLOVE,RATE,G,L,O,V,E,G,Move G from GLOVE to RATE to make LOVE and GRATE
+ML_419,GLOVE,RAVE,G,L,O,V,E,G,Move G from GLOVE to RAVE to make LOVE and GRAVE
+,GRAIN,ICE,G,R,A,I,N,R,#REF!
+ML_571,GRAIN,RAVE,G,R,A,I,N,G,Move G from GRAIN to RAVE to make RAIN and GRAVE
+ML_573,GRAIN,REAT,G,R,A,I,N,G,Move G from GRAIN to REAT to make RAIN and GREAT
+ML_574,GRAIN,REED,G,R,A,I,N,G,Move G from GRAIN to REED to make RAIN and GREED
+ML_575,GRAIN,REEN,G,R,A,I,N,G,Move G from GRAIN to REEN to make RAIN and GREEN
+ML_576,GRAIN,REET,G,R,A,I,N,G,Move G from GRAIN to REET to make RAIN and GREET
+ML_579,GRAIN,RILL,G,R,A,I,N,G,Move G from GRAIN to RILL to make RAIN and GRILL
+ML_052_CORRECTED,GRAPE,EAR,G,R,A,P,E,R,Move R from GRAPE to EAR to make GAPE and REAR
+,GRAPE,ICE,G,R,A,P,E,R,0
+,GRATE,AIN,G,R,A,T,E,R,GRATE becomes GATE; AIN becomes RAIN (R moves).
+ML_180,GRATE,OLD,G,R,A,T,E,G,Move G from GRATE to OLD to make RATE and GOLD
+,GRATE,RAIN,G,R,A,T,E,R,0
+,GRAVEL,EAR,G,R,A,V,E,L,1
+ML_023,GRIND,RAIN,G,R,I,N,D,G,Move G from GRIND to RAIN to make RIND and GRAIN
+,GROAN,AR,G,R,O,A,N,O,0
+,GROAN,AT,G,R,O,A,N,O,GROAN becomes GRAN; AT becomes OAT (O moves).
+ML_182,GROAN,ONE,G,R,O,A,N,G,Move G from GROAN to ONE to make ROAN and GONE
+,GROUT,ING,G,R,O,U,T,R,GROUT becomes GOUT; ING becomes RING (R moves).
+,GROWN,AKE,G,R,O,W,N,R,GROWN becomes GOWN; AKE becomes RAKE (R moves).
+,GRUFF,AND,G,R,U,F,F,R,GRUFF becomes GUFF; AND becomes RAND (R moves).
+,GUEST,NIT,G,U,E,S,T,U,GUEST becomes GEST; NIT becomes UNIT (U moves).
+,GUILT,POND,G,U,I,L,T,U,GUILT becomes GILT; POND becomes POUND (U moves).
+ML_097,HASTE,EAR,H,A,S,T,E,S,Move S from HASTE to EAR to make HATE and SEAR
+,HAZEL,EAR,H,A,Z,E,L,L,0
+,HEARD,RAM,H,E,A,R,D,D,0
+,HEARD,RONE,H,E,A,R,D,D,HEARD becomes HEAR; RONE becomes DRONE (D moves).
+ML_015,HEART,EAR,H,E,A,R,T,T,Move T from HEART to EAR to make HEAR and TEAR
+ML_090,HEART,ICE,H,E,A,R,T,R,Move R from HEART to ICE to make HEAT and RICE
+ML_183,HEART,ONE,H,E,A,R,T,T,Move T from HEART to ONE to make HEAR and TONE
+ML_184,HEART,RACK,H,E,A,R,T,T,Move T from HEART to RACK to make HEAR and TRACK
+ML_185,HEART,RASH,H,E,A,R,T,T,Move T from HEART to RASH to make HEAR and TRASH
+,HEART,RIP,H,E,A,R,T,T,0
+ML_091,HEART,RUST,H,E,A,R,T,T,Move T from HEART to RUST to make HEAR and TRUST
+ML_089_CORRECTED,HEART,SEA,H,E,A,R,T,R,Move R from HEART to SEA to make HEAT and SEAR
+,HEART,VERY,H,E,A,R,T,E,HEART becomes HART; VERY becomes EVERY (E moves).
+,HOARD,AR,H,O,A,R,D,O,0
+,HOARD,PEN,H,O,A,R,D,O,HOARD becomes HARD; PEN becomes OPEN (O moves).
+,HOUSE,NIT,H,O,U,S,E,U,HOUSE becomes HOSE; NIT becomes UNIT (U moves).
+,HOUSE,SE,H,O,U,S,E,U,0
+,HOVEL,EAR,H,O,V,E,L,L,1
+ML_190,LEARN,ATE,L,E,A,R,N,L,Move L from LEARN to ATE to make EARN and LATE
+,LEARN,OPE,L,E,A,R,N,R,LEARN becomes LEAN; OPE becomes ROPE (R moves).
+,LEAST,AT,L,E,A,S,T,E,LEAST becomes LAST; AT becomes EAT (E moves).
+,LEAST,WAY,L,E,A,S,T,A,LEAST becomes LEST; WAY becomes AWAY (A moves).
+,LOUSE,SE,L,O,U,S,E,U,0
+,MANGE,ONE,M,A,N,G,E,N,0
+,MODEL,EAR,M,O,D,E,L,L,0
+,MOURN,SE,M,O,U,R,N,U,0
+,MOUSE,MAN,M,O,U,S,E,O,0
+,MOUSE,MEN,M,O,U,S,E,O,MOUSE becomes MUSE; MEN becomes OMEN (O moves).
+,NAVEL,EAR,N,A,V,E,L,L,0
+,NOISE,ON,N,O,I,S,E,I,NOISE becomes NOSE; ON becomes ION (I moves).
+ML_026,NOISE,PAN,N,O,I,S,E,I,Move I from NOISE to PAN to make NOSE and PAIN
+ML_002,PAINT,HIS,P,A,I,N,T,T,Move T from PAINT to HIS to make PAIN and THIS
+,PAINT,ON,P,A,I,N,T,I,PAINT becomes PANT; ON becomes ION (I moves).
+ML_191,PAINT,ONE,P,A,I,N,T,T,Move T from PAINT to ONE to make PAIN and TONE
+ML_192,PAINT,RACK,P,A,I,N,T,T,Move T from PAINT to RACK to make PAIN and TRACK
+ML_193,PAINT,RAIN,P,A,I,N,T,T,Move T from PAINT to RAIN to make PAIN and TRAIN
+,PASTE,POT,P,A,S,T,E,S,#REF!
+ML_118,PLACE,MAT,P,L,A,C,E,L,Move L from PLACE to MAT to make PACE and MALT
+,PLACE,ONE,P,L,A,C,E,L,PLACE becomes PACE; ONE becomes LONE (L moves).
+,PLAIT,RAN,P,L,A,I,T,I,PLAIT becomes PLAT; RAN becomes RAIN (I moves).
+,PLANE,AND,P,L,A,N,E,L,PLANE becomes PANE; AND becomes LAND (L moves).
+,PLANE,EAR,P,L,A,N,E,L,1
+ML_198,PLANE,LACE,P,L,A,N,E,P,Move P from PLANE to LACE to make LANE and PLACE
+ML_196,PLANE,LATE,P,L,A,N,E,P,Move P from PLANE to LATE to make LANE and PLATE
+,PLANE,OUD,P,L,A,N,E,L,PLANE becomes PANE; OUD becomes LOUD (L moves).
+,PLATE,AST,P,L,A,T,E,L,PLATE becomes PATE; AST becomes LAST (L moves).
+,PLATE,EASE,P,L,A,T,E,L,PLATE becomes PATE; EASE becomes LEASE (L moves).
+,PLATE,EAT,P,L,A,T,E,L,#REF!
+,PLEAT,OAN,P,L,E,A,T,L,PLEAT becomes PEAT; OAN becomes LOAN (L moves).
+,POISE,ON,P,O,I,S,E,I,0
+,POISE,RON,P,O,I,S,E,I,POISE becomes POSE; RON becomes IRON (I moves).
+,POUND,SAGE,P,O,U,N,D,U,POUND becomes POND; SAGE becomes USAGE (U moves).
+,POUND,SE,P,O,U,N,D,U,#REF!
+,PRATE,OSE,P,R,A,T,E,R,PRATE becomes PATE; OSE becomes ROSE (R moves).
+,PRAWN,ICE,P,R,A,W,N,R,PRAWN becomes PAWN; ICE becomes RICE (R moves).
+ML_011,PRICE,LACE,P,R,I,C,E,P,Move P from PRICE to LACE to make RICE and PLACE
+ML_106,PRICE,LATE,P,R,I,C,E,P,Move P from PRICE to LATE to make RICE and PLATE
+,PRICK,AGE,P,R,I,C,K,R,PRICK becomes PICK; AGE becomes RAGE (R moves).
+ML_199,PRIDE,LATE,P,R,I,D,E,P,Move P from PRIDE to LATE to make RIDE and PLATE
+,PRONE,OOM,P,R,O,N,E,R,PRONE becomes PONE; OOM becomes ROOM (R moves).
+,PROOF,AIN,P,R,O,O,F,R,PROOF becomes POOF; AIN becomes RAIN (R moves).
+,PROSE,ING,P,R,O,S,E,R,PROSE becomes POSE; ING becomes RING (R moves).
+,PROUD,NIT,P,R,O,U,D,U,PROUD becomes PROD; NIT becomes UNIT (U moves).
+ML_135,PROWL,AND,P,R,O,W,L,L,Move L from PROWL to AND to make PROW and LAND
+ML_134,PROWL,ONE,P,R,O,W,L,L,Move L from PROWL to ONE to make PROW and LONE
+,RAISE,MEN,R,A,I,S,E,A,0
+,RAISE,WAY,R,A,I,S,E,A,RAISE becomes RISE; WAY becomes AWAY (A moves).
+,RANGE,ONE,R,A,N,G,E,N,0
+,SCALE,OAL,S,C,A,L,E,C,SCALE becomes SALE; OAL becomes COAL (C moves).
+,SCARE,VENT,S,C,A,R,E,E,SCARE becomes SCAR; VENT becomes EVENT (E moves).
+,SCARE,WIN,S,C,A,R,E,E,0
+ML_039_FINAL,SCARF,EAR,S,C,A,R,F,F,Move F from SCARF to EAR to make SCAR and FEAR
+ML_264,SCENT,LICE,S,C,E,N,T,S,Move S from SCENT to LICE to make CENT and SLICE
+,SCENT,OAL,S,C,E,N,T,C,1
+ML_262,SCENT,PACE,S,C,E,N,T,S,Move S from SCENT to PACE to make CENT and SPACE
+ML_064,SCORE,AP,S,C,O,R,E,C,Move C from SCORE to AP to make SORE and CAP
+,SCORE,OAL,S,C,O,R,E,C,0
+,SCORE,OLD,S,C,O,R,E,C,SCORE becomes SORE; OLD becomes COLD (C moves).
+ML_063,SCORE,ORE,S,C,O,R,E,C,Move C from SCORE to ORE to make SORE and CORE
+ML_266,SCORE,PAIN,S,C,O,R,E,S,Move S from SCORE to PAIN to make CORE and SPAIN
+ML_267,SCORE,PRAY,S,C,O,R,E,S,Move S from SCORE to PRAY to make CORE and SPRAY
+,SHAKE,ARD,S,H,A,K,E,H,SHAKE becomes SAKE; ARD becomes HARD (H moves).
+,SHALE,AS,S,H,A,L,E,H,SHALE becomes SALE; AS becomes HAS (H moves).
+,SHAME,OUR,S,H,A,M,E,H,SHAME becomes SAME; OUR becomes HOUR (H moves).
+,SHARD,AS,S,H,A,R,D,H,SHARD becomes SARD; AS becomes HAS (H moves).
+,SHARD,EAT,S,H,A,R,D,H,1
+ML_401,SHARP,LATE,S,H,A,R,P,S,Move S from SHARP to LATE to make HARP and SLATE
+ML_402,SHARP,MASH,S,H,A,R,P,S,Move S from SHARP to MASH to make HARP and SMASH
+ML_409,SHARP,PEAR,S,H,A,R,P,S,Move S from SHARP to PEAR to make HARP and SPEAR
+ML_410,SHARP,PILL,S,H,A,R,P,S,Move S from SHARP to PILL to make HARP and SPILL
+ML_270,SHAVE,PEAR,S,H,A,V,E,S,Move S from SHAVE to PEAR to make HAVE and SPEAR
+ML_272,SHAVE,TILL,S,H,A,V,E,S,Move S from SHAVE to TILL to make HAVE and STILL
+ML_107,SHEAR,EAR,S,H,E,A,R,S,Move S from SHEAR to EAR to make HEAR and SEAR
+,SHEAR,EAT,S,H,E,A,R,H,SHEAR becomes SEAR; EAT becomes HEAT (H moves).
+ML_076,SHEAR,ELF,S,H,E,A,R,S,Move S from SHEAR to ELF to make HEAR and SELF
+ML_224,SHEAR,LICE,S,H,E,A,R,S,Move S from SHEAR to LICE to make HEAR and SLICE
+ML_225,SHEAR,MILE,S,H,E,A,R,S,Move S from SHEAR to MILE to make HEAR and SMILE
+,SHEAR,ONE,S,H,E,A,R,H,SHEAR becomes SEAR; ONE becomes HONE (H moves).
+ML_228,SHEAR,WELL,S,H,E,A,R,S,Move S from SHEAR to WELL to make HEAR and SWELL
+ML_030,SHELF,ALL,S,H,E,L,F,H,Move H from SHELF to ALL to make SELF and HALL
+ML_453,SHELF,AND,S,H,E,L,F,H,Move H from SHELF to AND to make SELF and HAND
+ML_454,SHELF,ARM,S,H,E,L,F,H,Move H from SHELF to ARM to make SELF and HARM
+ML_455,SHELF,ART,S,H,E,L,F,H,Move H from SHELF to ART to make SELF and HART
+ML_456,SHELF,AS,S,H,E,L,F,H,Move H from SHELF to AS to make SELF and HAS
+ML_457,SHELF,ASH,S,H,E,L,F,H,Move H from SHELF to ASH to make SELF and HASH
+ML_451,SHELF,AT,S,H,E,L,F,H,Move H from SHELF to AT to make SELF and HAT
+ML_458,SHELF,ATE,S,H,E,L,F,H,Move H from SHELF to ATE to make SELF and HATE
+ML_459,SHELF,EAR,S,H,E,L,F,H,Move H from SHELF to EAR to make SELF and HEAR
+,SHELF,IS,S,H,E,L,F,H,0
+,SHELF,OUR,S,H,E,L,F,H,SHELF becomes SELF; OUR becomes HOUR (H moves).
+,SHOCK,EAR,S,H,O,C,K,H,SHOCK becomes SOCK; EAR becomes HEAR (H moves).
+ML_069,SHONE,OIL,S,H,O,N,E,S,Move S from SHONE to OIL to make HONE and SOIL
+ML_070_CORRECTED,SHONE,ONE,S,H,O,N,E,N,Move N from SHONE to ONE to make SHOE and NONE
+ML_072,SHORE,ATE,S,H,O,R,E,R,Move R from SHORE to ATE to make SHOE and RATE
+,SHORE,EAL,S,H,O,R,E,H,SHORE becomes SORE; EAL becomes HEAL (H moves).
+ML_071_CORRECTED,SHORE,EAT,S,H,O,R,E,H,Move H from SHORE to EAT to make SORE and HEAT
+,SHORE,IS,S,H,O,R,E,H,SHORE becomes SORE; IS becomes HIS (H moves).
+,SHOUT,PEN,S,H,O,U,T,O,0
+,SHOUT,VAL,S,H,O,U,T,O,SHOUT becomes SHUT; VAL becomes OVAL (O moves).
+,SLACK,EAR,S,L,A,C,K,L,SLACK becomes SACK; EAR becomes LEAR (L moves).
+,SLACK,END,S,L,A,C,K,L,SLACK becomes SACK; END becomes LEND (L moves).
+,SLAKE,ATE,S,L,A,K,E,L,SLAKE becomes SAKE; ATE becomes LATE (L moves).
+,SLANG,EASE,S,L,A,N,G,L,SLANG becomes SANG; EASE becomes LEASE (L moves).
+,SLASH,OAD,S,L,A,S,H,L,SLASH becomes SASH; OAD becomes LOAD (L moves).
+,SLATE,EAR,S,L,A,T,E,L,SLATE becomes SATE; EAR becomes LEAR (L moves).
+,SLATE,OAF,S,L,A,T,E,L,SLATE becomes SATE; OAF becomes LOAF (L moves).
+,SLAVE,END,S,L,A,V,E,L,SLAVE becomes SAVE; END becomes LEND (L moves).
+,SLEEK,AND,S,L,E,E,K,L,SLEEK becomes SEEK; AND becomes LAND (L moves).
+,SLEEP,ANK,S,L,E,E,P,L,SLEEP becomes SEEP; ANK becomes LANK (L moves).
+,SLEPT,AKE,S,L,E,P,T,L,SLEPT becomes SEPT; AKE becomes LAKE (L moves).
+,SLICK,OAN,S,L,I,C,K,L,SLICK becomes SICK; OAN becomes LOAN (L moves).
+,SLIDE,AMP,S,L,I,D,E,L,SLIDE becomes SIDE; AMP becomes LAMP (L moves).
+,SLIDE,OUD,S,L,I,D,E,L,0
+,SLING,ANE,S,L,I,N,G,L,SLING becomes SING; ANE becomes LANE (L moves).
+,SLING,EAN,S,L,I,N,G,L,SLING becomes SING; EAN becomes LEAN (L moves).
+,SLINK,IP,S,L,I,N,K,L,SLINK becomes SINK; IP becomes LIP (L moves).
+,SLUMP,ASH,S,L,U,M,P,L,SLUMP becomes SUMP; ASH becomes LASH (L moves).
+,SLUNK,EAR,S,L,U,N,K,L,SLUNK becomes SUNK; EAR becomes LEAR (L moves).
+,SMACK,EAT,S,M,A,C,K,M,SMACK becomes SACK; EAT becomes MEAT (M moves).
+ML_645,SMART,PACE,S,M,A,R,T,S,Move S from SMART to PACE to make MART and SPACE
+ML_646,SMART,PAIN,S,M,A,R,T,S,Move S from SMART to PAIN to make MART and SPAIN
+ML_655,SMART,PECK,S,M,A,R,T,S,Move S from SMART to PECK to make MART and SPECK
+ML_656,SMART,PEND,S,M,A,R,T,S,Move S from SMART to PEND to make MART and SPEND
+ML_657,SMART,PIKE,S,M,A,R,T,S,Move S from SMART to PIKE to make MART and SPIKE
+ML_658,SMART,PILL,S,M,A,R,T,S,Move S from SMART to PILL to make MART and SPILL
+ML_660,SMART,PINE,S,M,A,R,T,S,Move S from SMART to PINE to make MART and SPINE
+ML_686,SMART,TRIP,S,M,A,R,T,S,Move S from SMART to TRIP to make MART and STRIP
+ML_687,SMART,TUCK,S,M,A,R,T,S,Move S from SMART to TUCK to make MART and STUCK
+ML_695,SMART,WINE,S,M,A,R,T,S,Move S from SMART to WINE to make MART and SWINE
+ML_696,SMART,WING,S,M,A,R,T,S,Move S from SMART to WING to make MART and SWING
+ML_697,SMART,WIPE,S,M,A,R,T,S,Move S from SMART to WIPE to make MART and SWIPE
+ML_698,SMART,WITCH,S,M,A,R,T,S,Move S from SMART to WITCH to make MART and SWITCH
+ML_699,SMART,WORD,S,M,A,R,T,S,Move S from SMART to WORD to make MART and SWORD
+ML_700,SMART,WORN,S,M,A,R,T,S,Move S from SMART to WORN to make MART and SWORN
+,SMASH,ORE,S,M,A,S,H,M,SMASH becomes SASH; ORE becomes MORE (M moves).
+,SMEAR,ALE,S,M,E,A,R,M,SMEAR becomes SEAR; ALE becomes MALE (M moves).
+,SNAIL,ONE,S,N,A,I,L,N,0
+,SNAIL,OSE,S,N,A,I,L,N,SNAIL becomes SAIL; OSE becomes NOSE (N moves).
+ML_230,SNAIL,PECK,S,N,A,I,L,S,Move S from SNAIL to PECK to make NAIL and SPECK
+ML_232,SNAIL,TILL,S,N,A,I,L,S,Move S from SNAIL to TILL to make NAIL and STILL
+ML_233,SNAIL,WEEP,S,N,A,I,L,S,Move S from SNAIL to WEEP to make NAIL and SWEEP
+,SNORE,ONE,S,N,O,R,E,N,SNORE becomes SORE; ONE becomes NONE (N moves).
+ML_073,SNOWY,EAR,S,N,O,W,Y,Y,Move Y from SNOWY to EAR to make SNOW and YEAR
+ML_025,SPACE,LID,S,P,A,C,E,S,Move S from SPACE to LID to make PACE and SLID
+ML_447,SPACE,PARK,S,P,A,C,E,S,Move S from SPACE to PARK to make PACE and SPARK
+,SPARE,ACH,S,P,A,R,E,E,SPARE becomes SPAR; ACH becomes EACH (E moves).
+ML_043,SPARE,OIL,S,P,A,R,E,S,Move S from SPARE to OIL to make PARE and SOIL
+,SPARE,WIN,S,P,A,R,E,E,1
+ML_277,SPARK,MALL,S,P,A,R,K,S,Move S from SPARK to MALL to make PARK and SMALL
+ML_278,SPARK,TINT,S,P,A,R,K,S,Move S from SPARK to TINT to make PARK and STINT
+,SPATE,LATE,S,P,A,T,E,P,SPATE becomes SATE; LATE becomes PLATE (P moves).
+ML_280,SPEAK,MELT,S,P,E,A,K,S,Move S from SPEAK to MELT to make PEAK and SMELT
+ML_281,SPEAR,PORT,S,P,E,A,R,S,Move S from SPEAR to PORT to make PEAR and SPORT
+ML_282,SPEAR,TEAM,S,P,E,A,R,S,Move S from SPEAR to TEAM to make PEAR and STEAM
+ML_284,SPECK,KILL,S,P,E,C,K,S,Move S from SPECK to KILL to make PECK and SKILL
+ML_283,SPECK,LATE,S,P,E,C,K,S,Move S from SPECK to LATE to make PECK and SLATE
+,SPEND,ART,S,P,E,N,D,P,SPEND becomes SEND; ART becomes PART (P moves).
+ML_285,SPEND,POOL,S,P,E,N,D,S,Move S from SPEND to POOL to make PEND and SPOOL
+ML_286,SPEND,TACK,S,P,E,N,D,S,Move S from SPEND to TACK to make PEND and STACK
+ML_287,SPIKE,MASH,S,P,I,K,E,S,Move S from SPIKE to MASH to make PIKE and SMASH
+ML_288,SPIKE,WING,S,P,I,K,E,S,Move S from SPIKE to WING to make PIKE and SWING
+ML_082,SPILL,PAN,S,P,I,L,L,S,Move S from SPILL to PAN to make PILL and SPAN
+ML_289,SPILL,PEND,S,P,I,L,L,S,Move S from SPILL to PEND to make PILL and SPEND
+ML_081,SPILL,SOIL,S,P,I,L,L,P,Move P from SPILL to SOIL to make SILL and SPOIL
+ML_290,SPILL,TOCK,S,P,I,L,L,S,Move S from SPILL to TOCK to make PILL and STOCK
+ML_251,SPINE,LATE,S,P,I,N,E,S,Move S from SPINE to LATE to make PINE and SLATE
+ML_250,SPINE,PORT,S,P,I,N,E,S,Move S from SPINE to PORT to make PINE and SPORT
+ML_252,SPINE,TACK,S,P,I,N,E,S,Move S from SPINE to TACK to make PINE and STACK
+ML_253,SPINE,WING,S,P,I,N,E,S,Move S from SPINE to WING to make PINE and SWING
+ML_083_CORRECTED,SPOIL,ARK,S,P,O,I,L,P,Move P from SPOIL to ARK to make SOIL and PARK
+ML_481,SPOIL,LACE,S,P,O,I,L,P,Move P from SPOIL to LACE to make SOIL and PLACE
+ML_482,SPOIL,LANE,S,P,O,I,L,P,Move P from SPOIL to LANE to make SOIL and PLANE
+ML_483,SPOIL,LATE,S,P,O,I,L,P,Move P from SPOIL to LATE to make SOIL and PLATE
+ML_484,SPOIL,LAY,S,P,O,I,L,P,Move P from SPOIL to LAY to make SOIL and PLAY
+ML_485,SPOIL,LEA,S,P,O,I,L,P,Move P from SPOIL to LEA to make SOIL and PLEA
+ML_486,SPOIL,LED,S,P,O,I,L,P,Move P from SPOIL to LED to make SOIL and PLED
+ML_487,SPOIL,LOT,S,P,O,I,L,P,Move P from SPOIL to LOT to make SOIL and PLOT
+ML_488,SPOIL,LUCK,S,P,O,I,L,P,Move P from SPOIL to LUCK to make SOIL and PLUCK
+ML_489,SPOIL,LUG,S,P,O,I,L,P,Move P from SPOIL to LUG to make SOIL and PLUG
+ML_490,SPOIL,LUSH,S,P,O,I,L,P,Move P from SPOIL to LUSH to make SOIL and PLUSH
+,SPOON,ARK,S,P,O,O,N,P,SPOON becomes SOON; ARK becomes PARK (P moves).
+,SPORE,EAR,S,P,O,R,E,P,SPORE becomes SORE; EAR becomes PEAR (P moves).
+ML_291,SPORT,LACK,S,P,O,R,T,S,Move S from SPORT to LACK to make PORT and SLACK
+ML_292,SPORT,TUCK,S,P,O,R,T,S,Move S from SPORT to TUCK to make PORT and STUCK
+ML_296,SPOUT,LICE,S,P,O,U,T,S,Move S from SPOUT to LICE to make POUT and SLICE
+ML_038,SPOUT,OIL,S,P,O,U,T,S,Move S from SPOUT to OIL to make POUT and SOIL
+ML_295,SPOUT,PEAK,S,P,O,U,T,S,Move S from SPOUT to PEAK to make POUT and SPEAK
+,SPOUT,SAGE,S,P,O,U,T,U,SPOUT becomes SPOT; SAGE becomes USAGE (U moves).
+ML_297,SPRAY,PAIN,S,P,R,A,Y,S,Move S from SPRAY to PAIN to make PRAY and SPAIN
+ML_298,SPRAY,TARE,S,P,R,A,Y,S,Move S from SPRAY to TARE to make PRAY and STARE
+,STACK,AIL,S,T,A,C,K,T,STACK becomes SACK; AIL becomes TAIL (T moves).
+ML_299,STACK,PRAY,S,T,A,C,K,S,Move S from STACK to PRAY to make TACK and SPRAY
+,STACK,RAIN,S,T,A,C,K,T,0
+,STAGE,RAIN,S,T,A,G,E,T,0
+,STAIR,DEA,S,T,A,I,R,I,STAIR becomes STAR; DEA becomes IDEA (I moves).
+,STAIR,MAGE,S,T,A,I,R,I,STAIR becomes STAR; MAGE becomes IMAGE (I moves).
+,STAIR,ON,S,T,A,I,R,I,1
+ML_242,STALE,MALL,S,T,A,L,E,S,Move S from STALE to MALL to make TALE and SMALL
+,STALE,RACK,S,T,A,L,E,T,STALE becomes SALE; RACK becomes TRACK (T moves).
+,STALE,RAIN,S,T,A,L,E,T,#REF!
+ML_133,STALL,LIP,S,T,A,L,L,S,Move S from STALL to LIP to make TALL and SLIP
+ML_132,STALL,MASH,S,T,A,L,L,S,Move S from STALL to MASH to make TALL and SMASH
+,STAND,EAR,S,T,A,N,D,T,STAND becomes SAND; EAR becomes TEAR (T moves).
+,STAND,RAIN,S,T,A,N,D,T,0
+,STAND,RIP,S,T,A,N,D,T,0
+,STARE,VERY,S,T,A,R,E,E,STARE becomes STAR; VERY becomes EVERY (E moves).
+,STARE,WIN,S,T,A,R,E,E,0
+,START,HEN,S,T,A,R,T,T,1
+ML_607,START,KILL,S,T,A,R,T,S,Move S from START to KILL to make TART and SKILL
+ML_216,START,LACK,S,T,A,R,T,S,Move S from START to LACK to make TART and SLACK
+ML_604,START,LICE,S,T,A,R,T,S,Move S from START to LICE to make TART and SLICE
+ML_217,START,MITE,S,T,A,R,T,S,Move S from START to MITE to make TART and SMITE
+ML_028_CORRECTED,START,ONE,S,T,A,R,T,T,Move T from START to ONE to make STAR and TONE
+,START,RIP,S,T,A,R,T,T,0
+ML_111,START,RUST,S,T,A,R,T,T,Move T from START to RUST to make STAR and TRUST
+ML_593,START,URGE,S,T,A,R,T,S,Move S from START to URGE to make TART and SURGE
+ML_596,START,WARD,S,T,A,R,T,S,Move S from START to WARD to make TART and SWARD
+ML_597,START,WARM,S,T,A,R,T,S,Move S from START to WARM to make TART and SWARM
+,STATE,EAR,S,T,A,T,E,T,STATE becomes SATE; EAR becomes TEAR (T moves).
+,STEAL,RAIN,S,T,E,A,L,T,#REF!
+,STEAM,MEN,S,T,E,A,M,A,STEAM becomes STEM; MEN becomes AMEN (A moves).
+ML_014,STEAM,RACK,S,T,E,A,M,T,Move T from STEAM to RACK to make SEAM and TRACK
+ML_065,STEAM,RAIN,S,T,E,A,M,T,Move T from STEAM to RAIN to make SEAM and TRAIN
+ML_209,STEAM,TICK,S,T,E,A,M,S,Move S from STEAM to TICK to make TEAM and STICK
+ML_210,STEAM,TONE,S,T,E,A,M,S,Move S from STEAM to TONE to make TEAM and STONE
+ML_211,STEAM,TRAP,S,T,E,A,M,S,Move S from STEAM to TRAP to make TEAM and STRAP
+ML_212,STEAM,WING,S,T,E,A,M,S,Move S from STEAM to WING to make TEAM and SWING
+ML_621,STICK,MITE,S,T,I,C,K,S,Move S from STICK to MITE to make TICK and SMITE
+ML_622,STICK,MOCK,S,T,I,C,K,S,Move S from STICK to MOCK to make TICK and SMOCK
+ML_623,STICK,NAIL,S,T,I,C,K,S,Move S from STICK to NAIL to make TICK and SNAIL
+ML_616,STICK,PATE,S,T,I,C,K,S,Move S from STICK to PATE to make TICK and SPATE
+ML_610,STICK,PINE,S,T,I,C,K,S,Move S from STICK to PINE to make TICK and SPINE
+ML_612,STICK,POIL,S,T,I,C,K,S,Move S from STICK to POIL to make TICK and SPOIL
+ML_613,STICK,POUT,S,T,I,C,K,S,Move S from STICK to POUT to make TICK and SPOUT
+ML_614,STICK,PRAY,S,T,I,C,K,S,Move S from STICK to PRAY to make TICK and SPRAY
+ML_114,STICK,RACK,S,T,I,C,K,S,Move S from STICK to RACK to make TICK and TRACK
+,STICK,RAIN,S,T,I,C,K,T,0
+,STICK,RIP,S,T,I,C,K,T,STICK becomes SICK; RIP becomes TRIP (T moves).
+,STING,ONE,S,T,I,N,G,T,STING becomes SING; ONE becomes TONE (T moves).
+,STING,RAIN,S,T,I,N,G,T,1
+ML_471,STING,TICK,S,T,I,N,G,S,Move S from STING to TICK to make TING and STICK
+ML_472,STING,TILL,S,T,I,N,G,S,Move S from STING to TILL to make TING and STILL
+ML_473,STING,TONE,S,T,I,N,G,S,Move S from STING to TONE to make TING and STONE
+ML_475,STING,TORE,S,T,I,N,G,S,Move S from STING to TORE to make TING and STORE
+ML_476,STING,TRAP,S,T,I,N,G,S,Move S from STING to TRAP to make TING and STRAP
+ML_477,STING,TRAY,S,T,I,N,G,S,Move S from STING to TRAY to make TING and STRAY
+ML_478,STING,TUCK,S,T,I,N,G,S,Move S from STING to TUCK to make TING and STUCK
+ML_480,STING,WINE,S,T,I,N,G,S,Move S from STING to WINE to make TING and SWINE
+ML_479,STING,WING,S,T,I,N,G,S,Move S from STING to WING to make TING and SWING
+ML_041,STINT,OIL,S,T,I,N,T,S,Move S from STINT to OIL to make TINT and SOIL
+,STOCK,RAIN,S,T,O,C,K,T,STOCK becomes SOCK; RAIN becomes TRAIN (T moves).
+ML_304,STONE,PARK,S,T,O,N,E,S,Move S from STONE to PARK to make TONE and SPARK
+ML_305,STOOL,PRAY,S,T,O,O,L,S,Move S from STOOL to PRAY to make TOOL and SPRAY
+ML_306,STOOL,WING,S,T,O,O,L,S,Move S from STOOL to WING to make TOOL and SWING
+ML_249,STORE,KILL,S,T,O,R,E,S,Move S from STORE to KILL to make TORE and SKILL
+ML_247,STORE,MELT,S,T,O,R,E,S,Move S from STORE to MELT to make TORE and SMELT
+,STORE,OIL,S,T,O,R,E,T,STORE becomes SORE; OIL becomes TOIL (T moves).
+ML_246,STORE,PENT,S,T,O,R,E,S,Move S from STORE to PENT to make TORE and SPENT
+,STORE,RAIN,S,T,O,R,E,T,1
+ML_248,STORE,TEAM,S,T,O,R,E,S,Move S from STORE to TEAM to make TORE and STEAM
+ML_075,STRAY,ANT,S,T,R,A,Y,R,Move R from STRAY to ANT to make STAY and RANT
+ML_255,STRAY,MASH,S,T,R,A,Y,S,Move S from STRAY to MASH to make TRAY and SMASH
+ML_074,STRAY,OIL,S,T,R,A,Y,S,Move S from STRAY to OIL to make TRAY and SOIL
+ML_254,STRAY,POOL,S,T,R,A,Y,S,Move S from STRAY to POOL to make TRAY and SPOOL
+ML_256,STRAY,TOCK,S,T,R,A,Y,S,Move S from STRAY to TOCK to make TRAY and STOCK
+ML_257,STRAY,TUCK,S,T,R,A,Y,S,Move S from STRAY to TUCK to make TRAY and STUCK
+ML_259,STRIP,LACK,S,T,R,I,P,S,Move S from STRIP to LACK to make TRIP and SLACK
+ML_258,STRIP,PEND,S,T,R,I,P,S,Move S from STRIP to PEND to make TRIP and SPEND
+ML_260,STRIP,TALL,S,T,R,I,P,S,Move S from STRIP to TALL to make TRIP and STALL
+ML_261,STRIP,WINE,S,T,R,I,P,S,Move S from STRIP to WINE to make TRIP and SWINE
+,STUCK,RAIN,S,T,U,C,K,T,0
+ML_057_CORRECTED,SWAMP,AN,S,W,A,M,P,M,Move M from SWAMP to AN to make SWAP and MAN
+,SWAMP,EAT,S,W,A,M,P,M,1
+ML_236,SWARM,LIME,S,W,A,R,M,S,Move S from SWARM to LIME to make WARM and SLIME
+ML_235,SWARM,POUT,S,W,A,R,M,S,Move S from SWARM to POUT to make WARM and SPOUT
+ML_237,SWARM,TING,S,W,A,R,M,S,Move S from SWARM to TING to make WARM and STING
+ML_238,SWARM,TOCK,S,W,A,R,M,S,Move S from SWARM to TOCK to make WARM and STOCK
+ML_239,SWARM,WORD,S,W,A,R,M,S,Move S from SWARM to WORD to make WARM and SWORD
+,SWEAR,ALL,S,W,E,A,R,W,0
+,SWEAR,HOSE,S,W,E,A,R,W,SWEAR becomes SEAR; HOSE becomes WHOSE (W moves).
+,SWEAT,ALL,S,W,E,A,T,W,0
+,SWEAT,HILE,S,W,E,A,T,W,SWEAT becomes SEAT; HILE becomes WHILE (W moves).
+,SWEAT,IN,S,W,E,A,T,W,SWEAT becomes SEAT; IN becomes WIN (W moves).
+,SWEEP,ALL,S,W,E,E,P,W,0
+,SWEEP,HAT,S,W,E,E,P,W,SWEEP becomes SEEP; HAT becomes WHAT (W moves).
+ML_274,SWEEP,LIME,S,W,E,E,P,S,Move S from SWEEP to LIME to make WEEP and SLIME
+ML_275,SWEEP,TING,S,W,E,E,P,S,Move S from SWEEP to TING to make WEEP and STING
+ML_273,SWEEP,TOCK,S,W,E,E,P,S,Move S from SWEEP to TOCK to make WEEP and STOCK
+,SWELL,AGE,S,W,E,L,L,W,SWELL becomes SELL; AGE becomes WAGE (W moves).
+,SWELL,ALL,S,W,E,L,L,W,0
+,SWIFT,ILL,S,W,I,F,T,W,SWIFT becomes SIFT; ILL becomes WILL (W moves).
+,SWILL,ALL,S,W,I,L,L,W,#REF!
+,SWINE,ALL,S,W,I,N,E,W,SWINE becomes SINE; ALL becomes WALL (W moves).
+,SWING,ALL,S,W,I,N,G,W,SWING becomes SING; ALL becomes WALL (W moves).
+,SWING,HERE,S,W,I,N,G,W,SWING becomes SING; HERE becomes WHERE (W moves).
+ML_110,SWING,OAR,S,W,I,N,G,S,Move S from SWING to OAR to make WING and SOAR
+ML_495,SWING,URGE,S,W,I,N,G,S,Move S from SWING to URGE to make WING and SURGE
+ML_498,SWING,WARD,S,W,I,N,G,S,Move S from SWING to WARD to make WING and SWARD
+ML_500,SWING,WEAT,S,W,I,N,G,S,Move S from SWING to WEAT to make WING and SWEAT
+ML_494,SWING,WEEP,S,W,I,N,G,S,Move S from SWING to WEEP to make WING and SWEEP
+ML_493,SWING,WELL,S,W,I,N,G,S,Move S from SWING to WELL to make WING and SWELL
+ML_491,SWING,WINE,S,W,I,N,G,S,Move S from SWING to WINE to make WING and SWINE
+ML_492,SWING,WORD,S,W,I,N,G,S,Move S from SWING to WORD to make WING and SWORD
+ML_313,SWORD,MASH,S,W,O,R,D,S,Move S from SWORD to MASH to make WORD and SMASH
+,THERE,ICE,T,H,E,R,E,R,0
+ML_034,THICK,EAT,T,H,I,C,K,H,Move H from THICK to EAT to make TICK and HEAT
+,THORN,EAT,T,H,O,R,N,H,0
+,TIGER,ONE,T,I,G,E,R,G,1
+ML_319,TRACE,RACK,T,R,A,C,E,T,Move T from TRACE to RACK to make RACE and TRACK
+ML_318,TRACE,RUST,T,R,A,C,E,T,Move T from TRACE to RUST to make RACE and TRUST
+,TRACK,AGE,T,R,A,C,K,R,TRACK becomes TACK; AGE becomes RAGE (R moves).
+,TRACK,ICE,T,R,A,C,K,R,0
+,TRACK,OOM,T,R,A,C,K,R,TRACK becomes TACK; OOM becomes ROOM (R moves).
+ML_320,TRACK,RAIN,T,R,A,C,K,T,Move T from TRACK to RAIN to make RACK and TRAIN
+ML_033,TRACK,RUST,T,R,A,C,K,T,Move T from TRACK to RUST to make RACK and TRUST
+,TRACT,AKE,T,R,A,C,T,R,TRACT becomes TACT; AKE becomes RAKE (R moves).
+,TRAIL,ATE,T,R,A,I,L,R,TRAIL becomes TAIL; ATE becomes RATE (R moves).
+,TRAIL,OOF,T,R,A,I,L,R,TRAIL becomes TAIL; OOF becomes ROOF (R moves).
+ML_325,TRAIN,RACK,T,R,A,I,N,T,Move T from TRAIN to RACK to make RAIN and TRACK
+ML_326,TRAIN,RUST,T,R,A,I,N,T,Move T from TRAIN to RUST to make RAIN and TRUST
+,TRAMP,AIL,T,R,A,M,P,R,TRAMP becomes TAMP; AIL becomes RAIL (R moves).
+,TRAVEL,EAR,T,R,A,V,E,L,1
+ML_324,TREAD,RACK,T,R,E,A,D,T,Move T from TREAD to RACK to make READ and TRACK
+ML_322,TREAD,RUST,T,R,E,A,D,T,Move T from TREAD to RUST to make READ and TRUST
+,TREAT,ICE,T,R,E,A,T,R,TREAT becomes TEAT; ICE becomes RICE (R moves).
+,TREAT,USE,T,R,E,A,T,R,TREAT becomes TEAT; USE becomes RUSE (R moves).
+,TREND,OLL,T,R,E,N,D,R,TREND becomes TEND; OLL becomes ROLL (R moves).
+,TRICK,ICE,T,R,I,C,K,R,TRICK becomes TICK; ICE becomes RICE (R moves).
+,TRICK,UDE,T,R,I,C,K,R,TRICK becomes TICK; UDE becomes RUDE (R moves).
+,TRIED,AGE,T,R,I,E,D,R,TRIED becomes TIED; AGE becomes RAGE (R moves).
+,TROLL,ANT,T,R,O,L,L,R,TROLL becomes TOLL; ANT becomes RANT (R moves).
+,TROPE,AIN,T,R,O,P,E,R,TROPE becomes TOPE; AIN becomes RAIN (R moves).
+,TROUT,EEL,T,R,O,U,T,R,TROUT becomes TOUT; EEL becomes REEL (R moves).
+,TRUCK,AKE,T,R,U,C,K,R,TRUCK becomes TUCK; AKE becomes RAKE (R moves).
+,TRUCK,OSE,T,R,U,C,K,R,TRUCK becomes TUCK; OSE becomes ROSE (R moves).
+,TWINE,ALL,T,W,I,N,E,W,0
+,TWINGE,ALL,T,W,I,N,G,E,0
+,WEIRD,ONE,W,E,I,R,D,D,WEIRD becomes WEIR; ONE becomes DONE (D moves).
+,WHALE,AT,W,H,A,L,E,H,WHALE becomes WALE; AT becomes HAT (H moves).
+ML_067,WHALE,EAR,W,H,A,L,E,H,Move H from WHALE to EAR to make WALE and HEAR
+ML_066,WHALE,HAT,W,H,A,L,E,W,Move W from WHALE to HAT to make HALE and WHAT
+ML_332,WHEAT,ARM,W,H,E,A,T,W,Move W from WHEAT to ARM to make HEAT and WARM
+,WHERE,AT,W,H,E,R,E,H,0
+,WHILE,AT,W,H,I,L,E,H,0
+,WHINE,EAR,W,H,I,N,E,H,0
+ML_333,WHINE,HIT,W,H,I,N,E,H,Move H from WHINE to HIT to make WINE and WHIT
+,WHITE,AT,W,H,I,T,E,E,0
+,WIELD,DEA,W,I,E,L,D,I,WIELD becomes WELD; DEA becomes IDEA (I moves).
+,WORLD,EAK,W,O,R,L,D,L,WORLD becomes WORD; EAK becomes LEAK (L moves).
+,WOULD,SE,W,O,U,L,D,U,0
+,WRING,ATE,W,R,I,N,G,R,WRING becomes WING; ATE becomes RATE (R moves).
+,YEARN,INE,Y,E,A,R,N,N,YEARN becomes YEAR; INE becomes NINE (N moves).
+,YEARN,VERY,Y,E,A,R,N,E,YEARN becomes YARN; VERY becomes EVERY (E moves).
+,PLANET,EAR,P,L,A,N,T,T,3
+,STREAM,ICE,S,T,R,E,A,R,3
+,FRIGHT,AGE,F,R,I,G,H,R,3
+,FLIGHT,EAR,F,L,I,G,H,L,3
+,PLEASE,VERY,P,L,E,A,S,E,3
+,SLIGHT,OUD,S,L,I,G,H,L,3
+,STRAIN,ICE,S,T,R,A,I,R,3
+,STRING,AGE,S,T,R,I,N,R,3
+,SPROUT,ICE,S,P,R,O,U,R,3
+,STROVE,AGE,S,T,R,O,V,R,3
+,STROKE,ICE,S,T,R,O,K,R,3
+,SERVER,ICE,S,E,R,V,E,R,3
+,SEVERN,ICE,S,E,V,E,R,R,3
+,SHAGGY,EAR,S,H,A,G,Y,H,3
+,SHAKER,EAR,S,H,A,K,E,H,3
+,SHALLOW,EAR,S,H,A,L,L,H,3
+,SHAVED,EAR,S,H,A,V,E,H,3
+,SHAVER,EAR,S,H,A,V,E,H,3
+,SHEARS,EAR,S,H,E,A,R,H,3
+,SHELVES,EAR,S,H,E,L,V,H,3
+,SHELLS,EAR,S,H,E,L,L,H,3
+,SHIFTS,EAR,S,H,I,F,T,H,3
+,SHINES,EAR,S,H,I,N,E,H,3
+,SHINGLE,EAR,S,H,I,N,G,H,3
+,SHIPPED,EAR,S,H,I,P,E,H,3
+,SHOCKS,EAR,S,H,O,C,K,H,3
+,SHOOTS,EAR,S,H,O,O,T,H,3
+,SHOPPED,EAR,S,H,O,P,E,H,3
+,SHOPPER,EAR,S,H,O,P,P,H,3
+,SHORES,EAR,S,H,O,R,E,H,3
+,SHORTS,EAR,S,H,O,R,T,H,3
+,SHOWER,EAR,S,H,O,W,E,H,3
+,SIGHTS,EAR,S,I,G,H,T,T,3
+,SKILLED,NOW,S,K,I,L,L,K,3
+,SLEDGE,EAR,S,L,E,D,G,L,3
+,SLENDER,EAR,S,L,E,N,D,L,3
+,SLOPPY,EAR,S,L,O,P,P,L,3
+,SMACKS,EAT,S,M,A,C,K,M,3
+,SMASHES,ORE,S,M,A,S,H,M,3
+,SMELLS,ORE,S,M,E,L,L,M,3
+,SMOOTH,ORE,S,M,O,O,T,M,3
+,SNACKS,ONE,S,N,A,C,K,N,3
+,SNAILS,ONE,S,N,A,I,L,N,3
+,SNAKES,ONE,S,N,A,K,E,N,3
+,SNAPPY,ONE,S,N,A,P,P,N,3
+,SNEERS,ONE,S,N,E,E,R,N,3
+,SNORES,ONE,S,N,O,R,E,N,3
+,SNORTS,ONE,S,N,O,R,T,N,3
+,SNOWED,ONE,S,N,O,W,E,N,3
+,SNUBBED,ONE,S,N,U,B,B,N,3
+,SPARKY,LACE,S,P,A,R,K,P,3
+,SPEARS,LACE,S,P,E,A,R,P,3
+,SPEEDS,LACE,S,P,E,E,D,P,3
+,SPEEDY,LACE,S,P,E,E,D,P,3
+,SPELLS,LACE,S,P,E,L,L,P,3
+,SPENDS,LACE,S,P,E,N,D,P,3
+,SPILLS,LACE,S,P,I,L,L,P,3
+,SPINES,LACE,S,P,I,N,E,P,3
+,SPLASH,LACE,S,P,L,A,S,P,3
+,SPOILS,LACE,S,P,O,I,L,P,3
+,SPOOKY,LACE,S,P,O,O,K,P,3
+,SPORTS,LACE,S,P,O,R,T,P,3
+,SPOUSE,LACE,S,P,O,U,S,P,3
+,SPRITE,ICE,S,P,R,I,T,R,3
+,STABLE,EAR,S,T,A,B,L,T,3
+,STACKS,EAR,S,T,A,C,K,T,3
+,STAGES,EAR,S,T,A,G,E,T,3
+,STAGGER,EAR,S,T,A,G,E,T,3
+,STAINS,EAR,S,T,A,I,N,T,3
+,STAKES,EAR,S,T,A,K,E,T,3
+,STANDS,EAR,S,T,A,N,D,T,3
+,STATED,EAR,S,T,A,T,E,T,3
+,STATES,EAR,S,T,A,T,E,T,3
+,STEALS,EAR,S,T,E,A,L,T,3
+,STEAMS,EAR,S,T,E,A,M,T,3
+,STEAMER,EAR,S,T,E,A,M,T,3
+,STEELS,EAR,S,T,E,E,L,T,3
+,STEEPS,EAR,S,T,E,E,P,T,3
+,STEERS,EAR,S,T,E,E,R,T,3
+,STICKS,EAR,S,T,I,C,K,T,3
+,STICKY,EAR,S,T,I,C,K,T,3
+,STILTS,EAR,S,T,I,L,T,T,3
+,STINKS,EAR,S,T,I,N,K,T,3
+,STOCKS,EAR,S,T,O,C,K,T,3
+,STOCKY,EAR,S,T,O,C,K,T,3
+,STONES,EAR,S,T,O,N,E,T,3
+,STOPPED,EAR,S,T,O,P,E,T,3
+,STORES,EAR,S,T,O,R,E,T,3
+,STREAK,ICE,S,T,R,E,A,R,3
+,STREAM,ICE,S,T,R,E,A,R,3
+,STRING,ICE,S,T,R,I,N,R,3
+,STRIPE,RICE,S,T,R,I,P,R,3
+,STRIVE,RICE,S,T,R,I,V,R,3
+,STROKE,ICE,S,T,R,O,K,R,3
+,STROLL,RICE,S,T,R,O,L,R,3
+,STRUCK,ICE,S,T,R,U,C,R,3
+,STRUNG,ICE,S,T,R,U,N,R,3
+,BLEACH,EAR,B,L,E,A,C,L,3
+,BLIGHT,EAR,B,L,I,G,H,L,3
+,BLOCKS,EAR,B,L,O,C,K,L,3
+,BLOOMS,EAR,B,L,O,O,M,L,3
+,BLOUSE,EAR,B,L,O,U,S,L,3
+,CLAMPS,EAR,C,L,A,M,P,L,3
