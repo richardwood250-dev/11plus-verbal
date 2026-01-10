@@ -51,7 +51,7 @@ SHIR [ ? ] AG,T,P,K,L,S,T,Level 1,1,0,0,0,0
 SWIF [ ? ] AG,T,P,K,L,S,T,Level 1,1,0,0,0,0
 TRAC [ ? ] ING,K,T,L,P,S,K,Level 1,1,0,0,0,0
 STAL [ ? ] ACE,L,T,P,K,S,L,Level 1,1,0,0,0,0
-SCOO [ ? ] ALE,P,T,K,L,S,P,Level 1,1,0,0,0,0
+SCOO [ ? ] ALE,B,T,K,L,S,T,Level 1,1,0,0,0,0
 SHEE [ ? ] OP,T,P,K,L,S,T,Level 1,1,0,0,0,0
 SCAL [ ? ] AR,E,T,P,K,L,E,Level 1,1,0,0,0,0
 STOR [ ? ] AN,M,T,L,P,K,M,Level 1,1,0,0,0,0
@@ -197,7 +197,7 @@ GLO [ ? ] AR,E,T,L,P,K,P,Level 2,0,0,0,1,0
 HOO [ ? ] AR,E,T,L,P,K,P,Level 2,0,0,0,1,0
 COO [ ? ] AR,E,T,L,P,K,P,Level 2,0,0,0,1,0
 LOO [ ? ] AR,E,T,L,P,K,P,Level 2,0,0,0,1,0
-SCOO [ ? ] AR,E,T,L,P,K,P,Level 2,0,0,0,1,0
+SCOO [ ? ] AR,E,N,L,P,K,P,Level 2,0,0,0,1,0
 STOO [ ? ] AR,E,T,L,P,K,P,Level 2,0,0,0,1,0
 TROO [ ? ] AR,E,T,L,P,K,P,Level 2,0,0,0,1,0
 DROO [ ? ] AR,E,T,L,P,K,P,Level 2,0,0,0,1,0
@@ -282,4 +282,5 @@ FLA [ ? ] AP,L,T,M,P,K,M,Level 2,0,0,1,0,0
 DRA [ ? ] AP,L,T,M,P,K,M,Level 2,0,0,1,0,0
 SCRA [ ? ] AP,M,T,L,P,K,M,Level 2,1,0,0,0,0
 STEAM [ ? ] AW,M,P,Y,L,K,Y,Level 3,0,0,1,0,0
+
 ,,,,,,,,76,37,34,74,32
